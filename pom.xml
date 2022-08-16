@@ -111,7 +111,7 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<url>https://github.com/Akretsch/cmp-ra-component/</url>
+		<url>https://github.com/Akretsch/CmpRaComponent/</url>
 	</scm>
 	<organization>
 		<name>Siemens AG</name>
