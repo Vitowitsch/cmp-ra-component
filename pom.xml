@@ -21,7 +21,7 @@
            <repository>
              <id>github</id>
              <name>GitHub Akretsch Apache Maven Packages</name>
-             <url>https://maven.pkg.github.com/siemens/cmp-ra-component</url>
+             <url>https://maven.pkg.github.com/Akretsch/CmpRaComponent</url>
           </repository>
         </distributionManagement>
 	<build>
@@ -111,7 +111,7 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<url>https://github.com/Akretsch/CmpRaComponent/</url>
+		<url>https://github.com/siemens/cmp-ra-component/</url>
 	</scm>
 	<organization>
 		<name>Siemens AG</name>
