@@ -17,6 +17,13 @@
 		<maven-failsafe-plugin.version>3.0.0-M3</maven-failsafe-plugin.version>
 		<maven-site-plugin.version>3.8.2</maven-site-plugin.version>
 	</properties>
+	<distributionManagement>
+           <repository>
+             <id>github</id>
+             <name>GitHub Akretsch Apache Maven Packages</name>
+             <url>https://maven.pkg.github.com/Akretsch/cmp-ra-component</url>
+          </repository>
+        </distributionManagement>
 	<build>
 		<plugins>
 			<plugin>
