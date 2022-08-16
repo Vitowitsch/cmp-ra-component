@@ -21,7 +21,7 @@
            <repository>
              <id>github</id>
              <name>GitHub Akretsch Apache Maven Packages</name>
-             <url>https://maven.pkg.github.com/Akretsch/CmpRaComponent</url>
+             <url>https://maven.pkg.github.com/siemens/CmpRaComponent</url>
           </repository>
         </distributionManagement>
 	<build>
